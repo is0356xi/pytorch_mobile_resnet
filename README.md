@@ -17,11 +17,14 @@ pytorch-mobileとresnetモデルを利用した画像解析のandroidアプリ�
 「解析結果」の横に結果が表示されます。
 
 1.起動時
+
 <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/393221/8d55aa71-b362-4774-6ba3-b4e8bc5d5755.png" width="50%" height="50%" >
 
 2.写真撮影
+
 <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/393221/3554c08f-33df-a01c-db71-dada15111dd1.png" width="50%" height="50%">
 
 3.画像解析
+
 <img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/393221/e1efa00e-3940-80e4-e86d-b4f7681b9425.png" width="50%" height="50%">
 
